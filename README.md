@@ -1,5 +1,33 @@
 # GuJumpgate
 
+<p align="center">
+  <img src="docs/assets/readme-banner.svg" alt="Repository overview banner" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="Form" src="https://img.shields.io/badge/Form-Chrome_extension-4285F4?style=flat-square&logo=googlechrome" />
+  <img alt="Helper" src="https://img.shields.io/badge/Helper-Local_companion-4F46E5?style=flat-square" />
+  <img alt="Export" src="https://img.shields.io/badge/Export-SESSION_·_OAuth_JSON-7C3AED?style=flat-square" />
+  <img alt="License" src="https://img.shields.io/badge/License-MIT_lineage-2EA44F?style=flat-square" />
+</p>
+
+<p align="center"><a href="#已实现能力">能力</a> · <a href="#前提要求">前提</a> · <a href="#安装与使用">安装</a> · <a href="#版权与来源说明">来源</a></p>
+
+## 一眼看懂
+
+| 维度 | 说明 |
+| --- | --- |
+| 形态 | Chrome 扩展 + 必须启动的本地 Hotmail Helper |
+| 主要流程 | Free 账号流程、PayPal 激活、邮箱别名、号码池与本地/面板导出 |
+| 当前推荐导出 | 原文建议使用 `SESSION JSON`，并说明其有效期与兼容范围 |
+| 前置条件 | 接码号码、可用邮箱渠道与符合现有流程要求的网络环境 |
+| 下载提示 | 下方 Releases 链接指向 `FoundZiGu/GuJumpgate`，使用前请核对版本来源 |
+
+> 先阅读页面顶部的 OAuth 风控提示和下方完整安装步骤，再决定导出策略；不要把 SESSION 与 OAuth 两种 JSON 当作等价产物。
+
+---
+
+
 一个也许能“真正解放双手”的全自动 GPT Plus 注册浏览器扩展。
 
 如果这个项目能帮上你，欢迎点个 Star⭐~
